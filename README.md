@@ -1,5 +1,8 @@
 # starter-selenium-test
 
+### Chrome Driver 
+- https://chromedriver.chromium.org/downloads
+
 ### Selenium Testing Websites
 - https://omayo.blogspot.com/
 - http://the-internet.herokuapp.com/
